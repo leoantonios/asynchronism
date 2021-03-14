@@ -1,0 +1,24 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "Work with asynchronism JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoantonios/asynchronism.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Leoantonios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoantonios/asynchronism/issues"
+  },
+  "homepage": "https://github.com/leoantonios/asynchronism#readme"
+}
