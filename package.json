@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/leoantonios/asynchronism/issues"
   },
-  "homepage": "https://github.com/leoantonios/asynchronism#readme"
+  "homepage": "https://github.com/leoantonios/asynchronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
